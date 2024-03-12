@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\B\\פינקלשטיין בתיה\\זילברברג\\הפרוייקט\\todoList\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\B\\פינקלשטיין בתיה\\זילברברג\\הפרוייקט\\todoList\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "Z:\\B\\פינקלשטיין בתיה\\זילברברג\\הפרוייקט\\todoList\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.todoList.props",
+      "PackagePath": "build\\todoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.todoList.props",
+      "PackagePath": "buildMultiTargeting\\todoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.todoList.props",
+      "PackagePath": "buildTransitive\\todoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.todoList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
